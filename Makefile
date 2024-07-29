@@ -1,4 +1,4 @@
-GO_VERSION := 1.17  # <1>
+GO_VERSION := 1.22.5  # <1>
 
 .PHONY: install-go init-go
 
